@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:8080/hola
+description: ""
+url: http://localhost:8080/config
+method: GET
+order: 1000
